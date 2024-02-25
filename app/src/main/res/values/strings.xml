@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="city_1">Vancouver</string>
+    <string name="city_2">Quebec</string>
+    <string name="city_3">Toronto</string>
+    <string name="artist_1">Dall-E-3 (2024)</string>
+    <string name="artist_2">Dall-E-3 (2024)</string>
+    <string name="artist_3">Dall-E-3 (2024)</string>
+</resources>
